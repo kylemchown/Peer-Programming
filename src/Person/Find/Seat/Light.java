@@ -1,3 +1,5 @@
+package Person.Find.Seat;
+
 public class Light {
 	private int luminosity;
 	

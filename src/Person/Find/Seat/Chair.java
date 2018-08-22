@@ -1,3 +1,4 @@
+package Person.Find.Seat;
 
 public class Chair {
 	private int maxWeight;

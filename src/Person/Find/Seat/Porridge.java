@@ -1,3 +1,4 @@
+package Person.Find.Seat;
 
 public class Porridge {
 	private int temperature;

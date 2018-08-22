@@ -1,3 +1,5 @@
+package Person.Find.Seat;
+
 import java.util.ArrayList;
 
 public class Tester {
